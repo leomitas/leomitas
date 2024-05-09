@@ -1,4 +1,4 @@
-## Oie eu sou o Leonardo Abreu, desenvolvedor web full stack!
+## Olá, eu sou o Leonardo Abreu, desenvolvedor web full stack!
 
 <div align="center">
   <a href="https://github.com/leomitas">
