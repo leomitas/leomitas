@@ -25,7 +25,6 @@
   <a href = "mailto:leonardo.abreu.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leonardo-abreu2402/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/leomitas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://wa.me/12992412575" target="_blank">Telefone(whatsapp)</a>
   <a> | </a>
   <a href="https://portfolio2-beige-xi.vercel.app/" target="_blank">Portfólio</a>
 </div>
